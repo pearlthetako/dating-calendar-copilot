@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dating Calendar Copilot"
+  short_description: "Coach dating chats and propose date times."
+  default_prompt: "Use $dating-calendar-copilot to help me draft dating messages and suggest date options from my availability."
+
+policy:
+  allow_implicit_invocation: true
